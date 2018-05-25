@@ -1,4 +1,4 @@
-package com.imi.mapper.secondary;
+package com.imi.repository.secondary;
 
 
 import com.imi.entity.OrgCode;

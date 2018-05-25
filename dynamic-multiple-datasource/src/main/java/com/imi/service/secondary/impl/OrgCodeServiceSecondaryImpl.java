@@ -1,7 +1,7 @@
 package com.imi.service.secondary.impl;
 
 import com.imi.entity.OrgCode;
-import com.imi.mapper.secondary.OrgCodeRepositorySecondary;
+import com.imi.repository.secondary.OrgCodeRepositorySecondary;
 import com.imi.service.secondary.OrgCodeServiceSecondary;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
